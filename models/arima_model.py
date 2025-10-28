@@ -1,7 +1,7 @@
 import pandas as pd
 from statsmodels.tsa.statespace.sarimax import SARIMAX
 import numpy as np
-from sklearn.metrics import mean_squared_error
+from sklearn.metrics import mean_squared_error, mean_absolute_error
 
 def load_data(path="data/water_potability.csv"):
     df = pd.read_csv(path)
@@ -20,4 +20,6 @@ def evaluate_model(model_fit, test_data):
     forecast = model_fit.forecast(steps=len(test_data))
     mse = mean_squared_error(test_data, forecast)
     rmse = np.sqrt(mse)
-    return forecast, rmse
+    mae = mean_absolute_error(test_data, forecast)
+    
+    return forecast, rmse, mae

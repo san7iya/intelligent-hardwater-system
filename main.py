@@ -8,8 +8,10 @@ print("\n--- ARIMA MODEL RUN ---")
 series = load_data()
 train_data, test_data = split_data(series)
 model_fit = train_arima(train_data)
-forecast, rmse = evaluate_model(model_fit, test_data)
+forecast, rmse, mae = evaluate_model(model_fit, test_data)
 print(f"ARIMA RMSE: {rmse:.2f}")
+print(f"ARIMA MAE: {mae:.2f}")
+
 save_forecast(forecast, test_data.index)
 plot_forecast(train_data, test_data, forecast)
 

@@ -56,9 +56,9 @@ def recommend(row):
 
 
 df["Recommendations"] = df.apply(recommend, axis=1)
-print("\n✅ Sample Recommendations:")
+print("\n Sample Recommendations:")
 print(df[['ph', 'Hardness', 'Solids', 'Turbidity',
       'Chloramines', 'Recommendations']].head(10))
 
 df.to_csv("water_recommendations.csv", index=False)
-print("\n💾 Recommendations saved to 'water_recommendations.csv'")
+print("\n Recommendations saved to 'water_recommendations.csv'")
