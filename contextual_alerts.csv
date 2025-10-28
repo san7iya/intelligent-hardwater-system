@@ -1,0 +1,18 @@
+timestamp,severity,score,features,actions
+2020-01-31,Low,1.01x,"Pressure (hPa), Conductivity, Organic_carbon","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check for dissolved solids and mineral content', 'Check for organic contamination and biofilm']"
+2020-03-18,Low,1.00x,"Chloramines, pH, Sulfate","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check pH levels and adjust chemical dosing system', 'Verify chlorination system operation and dosage', 'Test for sulfate contamination sources']"
+2020-06-29,Low,1.01x,"WindSpeed (km/h), Sulfate, Solids","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Test for sulfate contamination sources']"
+2020-12-29,Low,1.02x,"WindSpeed (km/h), Pressure (hPa), Trihalomethanes",['ℹ️ LOW PRIORITY - Monitor and log for trends']
+2020-12-30,Low,1.01x,"WindSpeed (km/h), Pressure (hPa), Trihalomethanes",['ℹ️ LOW PRIORITY - Monitor and log for trends']
+2021-01-02,Low,1.01x,"Pressure (hPa), WindSpeed (km/h), Organic_carbon","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check for organic contamination and biofilm']"
+2021-01-03,Low,1.01x,"Pressure (hPa), WindSpeed (km/h), Organic_carbon","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check for organic contamination and biofilm']"
+2021-01-04,Low,1.03x,"WindSpeed (km/h), Pressure (hPa), Organic_carbon","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check for organic contamination and biofilm']"
+2021-01-05,Low,1.04x,"Pressure (hPa), WindSpeed (km/h), Sulfate","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Test for sulfate contamination sources']"
+2021-01-06,Low,1.03x,"Pressure (hPa), WindSpeed (km/h), Sulfate","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Test for sulfate contamination sources']"
+2021-01-07,Low,1.02x,"Pressure (hPa), WindSpeed (km/h), Sulfate","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Test for sulfate contamination sources']"
+2021-01-11,Low,1.02x,"WindSpeed (km/h), Pressure (hPa), Organic_carbon","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check for organic contamination and biofilm']"
+2021-01-12,Low,1.02x,"WindSpeed (km/h), Pressure (hPa), Organic_carbon","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check for organic contamination and biofilm']"
+2021-01-13,Low,1.02x,"Pressure (hPa), WindSpeed (km/h), Organic_carbon","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check for organic contamination and biofilm']"
+2021-01-14,Low,1.02x,"Pressure (hPa), WindSpeed (km/h), Organic_carbon","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check for organic contamination and biofilm']"
+2021-01-15,Low,1.01x,"Pressure (hPa), WindSpeed (km/h), Organic_carbon","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check for organic contamination and biofilm']"
+2021-01-16,Low,1.02x,"Pressure (hPa), WindSpeed (km/h), Organic_carbon","['ℹ️ LOW PRIORITY - Monitor and log for trends', 'Check for organic contamination and biofilm']"
