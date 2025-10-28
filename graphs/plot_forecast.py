@@ -16,4 +16,3 @@ def save_forecast(forecast, test_index, output_path="outputs/arima_forecast.csv"
     forecast_df = pd.DataFrame({'Forecasted Hardness': forecast}, index=test_index)
     forecast_df.to_csv(output_path)
     return forecast_df
-#
