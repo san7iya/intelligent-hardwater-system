@@ -1,0 +1,401 @@
+complaint_text,predicted_hardness,hardness_label,time_of_day,usage_context,frequency,region,reported_ph
+My clothes feel softer after washing.,33.73,Soft,Morning,General use,Daily,Bengaluru,7.46
+I notice mild deposits on my bathroom tiles.,68.88,Moderate,Evening,Kitchen,Occasionally,Vellore,8.3
+Hair feels dry and rough after bathing.,169.51,Hard,Night,Kitchen,Weekly,Chennai,7.75
+Slight scaling seen on my kettle after a few uses.,108.9,Moderate,Evening,Kitchen,Weekly,Mumbai,6.73
+The water feels quite smooth when I wash my hands.,50.77,Soft,Evening,General use,Weekly,Vellore,8.04
+My clothes feel softer after washing.,3.99,Soft,Night,Laundry,Occasionally,Chennai,7.31
+My clothes feel softer after washing.,33.73,Soft,Night,Laundry,Daily,Mumbai,7.11
+"The soap doesn’t lather much, but it’s manageable.",110.71,Moderate,Evening,General use,Daily,Mumbai,6.62
+Heavy scaling on taps and fixtures.,277.8,Very Hard,Afternoon,Laundry,Daily,Mumbai,6.93
+Soap just refuses to lather at all these days.,256.71,Very Hard,Evening,Kitchen,Weekly,Mumbai,7.15
+The geyser is scaling up quickly again.,146.83,Hard,Evening,General use,Daily,Bengaluru,8.24
+Hair feels dry and rough after bathing.,132.69,Hard,Afternoon,Bath,Occasionally,Bengaluru,8.11
+Hair feels dry and rough after bathing.,128.87,Hard,Afternoon,Kitchen,Daily,Vellore,6.91
+Slight scaling seen on my kettle after a few uses.,76.83,Moderate,Evening,Bath,Weekly,Mumbai,7.26
+I notice mild deposits on my bathroom tiles.,63.24,Moderate,Evening,Laundry,Daily,Mumbai,6.68
+My clothes feel stiff even after washing with detergent.,170.83,Hard,Morning,Kitchen,Weekly,Mumbai,7.01
+Slight scaling seen on my kettle after a few uses.,78.09,Moderate,Night,General use,Daily,Chennai,8.14
+My clothes feel softer after washing.,39.13,Soft,Evening,Kitchen,Daily,Mumbai,8.3
+Heavy scaling on taps and fixtures.,260.14,Very Hard,Evening,Kitchen,Occasionally,Chennai,8.02
+The water feels quite smooth when I wash my hands.,30.12,Soft,Afternoon,Laundry,Weekly,Mumbai,7.41
+I notice mild deposits on my bathroom tiles.,79.96,Moderate,Evening,Kitchen,Weekly,Mumbai,7.24
+Slight scaling seen on my kettle after a few uses.,106.93,Moderate,Morning,General use,Occasionally,Chennai,7.54
+"The soap doesn’t lather much, but it’s manageable.",62.69,Moderate,Night,Kitchen,Weekly,Vellore,7.24
+Soap lathers easily these days.,2.23,Soft,Afternoon,Kitchen,Weekly,Vellore,8.06
+"No scaling on taps recently, water seems clean.",57.13,Soft,Morning,Kitchen,Occasionally,Bengaluru,8.29
+The water feels quite smooth when I wash my hands.,15.37,Soft,Evening,General use,Occasionally,Vellore,6.8
+The geyser is scaling up quickly again.,149.56,Hard,Afternoon,Kitchen,Occasionally,Vellore,7.85
+Water feels a bit harsh on the skin sometimes.,79.0,Moderate,Morning,Kitchen,Daily,Chennai,7.52
+Heavy scaling on taps and fixtures.,285.02,Very Hard,Morning,Laundry,Weekly,Chennai,6.8
+Heavy scaling on taps and fixtures.,252.64,Very Hard,Evening,Laundry,Occasionally,Mumbai,7.49
+Washing machine filters clog frequently.,248.33,Very Hard,Evening,Kitchen,Daily,Mumbai,8.05
+I notice mild deposits on my bathroom tiles.,96.41,Moderate,Evening,Laundry,Daily,Chennai,6.5
+Hair feels dry and rough after bathing.,124.9,Hard,Afternoon,Bath,Occasionally,Bengaluru,7.51
+Water feels a bit harsh on the skin sometimes.,115.19,Moderate,Afternoon,General use,Daily,Chennai,8.47
+There’s a strong salty taste in the water.,252.12,Very Hard,Evening,Laundry,Occasionally,Bengaluru,8.19
+There’s a strong salty taste in the water.,207.36,Very Hard,Morning,Laundry,Weekly,Chennai,7.43
+My clothes feel stiff even after washing with detergent.,164.81,Hard,Morning,Bath,Weekly,Chennai,8.26
+Washing machine filters clog frequently.,247.55,Very Hard,Morning,Kitchen,Weekly,Vellore,8.14
+Water feels a bit harsh on the skin sometimes.,119.88,Moderate,Morning,General use,Weekly,Chennai,7.43
+"No scaling on taps recently, water seems clean.",48.55,Soft,Morning,General use,Weekly,Vellore,7.1
+The geyser is scaling up quickly again.,141.75,Hard,Night,Laundry,Weekly,Chennai,7.82
+The water feels quite smooth when I wash my hands.,46.52,Soft,Morning,Kitchen,Occasionally,Bengaluru,7.61
+The geyser is scaling up quickly again.,159.14,Hard,Evening,General use,Daily,Mumbai,7.65
+Soap lathers easily these days.,31.47,Soft,Afternoon,Bath,Weekly,Vellore,8.06
+Soap lathers easily these days.,59.01,Soft,Evening,Laundry,Occasionally,Chennai,7.72
+Water feels a bit harsh on the skin sometimes.,84.2,Moderate,Night,Laundry,Weekly,Vellore,6.81
+Soap just refuses to lather at all these days.,282.21,Very Hard,Evening,Laundry,Daily,Mumbai,6.61
+The water feels quite smooth when I wash my hands.,19.09,Soft,Evening,Kitchen,Weekly,Mumbai,8.48
+My clothes feel softer after washing.,0.43,Soft,Afternoon,Laundry,Daily,Vellore,8.0
+Washing machine filters clog frequently.,190.13,Very Hard,Night,Bath,Occasionally,Chennai,6.73
+My clothes feel stiff even after washing with detergent.,140.26,Hard,Night,Laundry,Daily,Bengaluru,8.07
+Soap just refuses to lather at all these days.,243.35,Very Hard,Morning,Laundry,Occasionally,Vellore,6.52
+Soap just refuses to lather at all these days.,224.09,Very Hard,Evening,Bath,Daily,Bengaluru,7.85
+Hair feels dry and rough after bathing.,129.39,Hard,Afternoon,Bath,Daily,Chennai,6.82
+I notice mild deposits on my bathroom tiles.,79.5,Moderate,Afternoon,General use,Occasionally,Chennai,8.48
+Hair feels dry and rough after bathing.,156.36,Hard,Evening,Bath,Weekly,Mumbai,7.07
+Slight scaling seen on my kettle after a few uses.,78.82,Moderate,Evening,General use,Occasionally,Vellore,6.85
+Hair feels dry and rough after bathing.,176.43,Hard,Night,General use,Weekly,Bengaluru,7.69
+My clothes feel stiff even after washing with detergent.,142.58,Hard,Evening,Kitchen,Occasionally,Vellore,7.34
+Hair feels dry and rough after bathing.,165.55,Hard,Afternoon,Kitchen,Weekly,Vellore,7.74
+My clothes feel stiff even after washing with detergent.,141.92,Hard,Afternoon,Kitchen,Occasionally,Vellore,7.16
+Soap lathers easily these days.,12.59,Soft,Evening,Kitchen,Occasionally,Chennai,8.21
+The water leaves white stains on utensils.,124.52,Hard,Afternoon,General use,Weekly,Mumbai,7.47
+I notice mild deposits on my bathroom tiles.,79.15,Moderate,Evening,Bath,Occasionally,Chennai,7.14
+My clothes feel stiff even after washing with detergent.,123.71,Hard,Evening,Kitchen,Weekly,Chennai,8.18
+"No scaling on taps recently, water seems clean.",21.16,Soft,Night,Bath,Occasionally,Mumbai,6.58
+There’s a strong salty taste in the water.,269.43,Very Hard,Afternoon,Kitchen,Daily,Mumbai,6.86
+I notice mild deposits on my bathroom tiles.,69.39,Moderate,Evening,General use,Weekly,Chennai,6.71
+My clothes feel stiff even after washing with detergent.,122.42,Hard,Afternoon,Kitchen,Daily,Mumbai,6.56
+Slight scaling seen on my kettle after a few uses.,96.16,Moderate,Evening,Kitchen,Weekly,Vellore,7.06
+The geyser is scaling up quickly again.,144.21,Hard,Morning,Kitchen,Weekly,Mumbai,7.79
+My clothes feel softer after washing.,59.1,Soft,Morning,Bath,Weekly,Chennai,6.8
+Water feels a bit harsh on the skin sometimes.,83.87,Moderate,Afternoon,Laundry,Occasionally,Mumbai,8.05
+The water leaves white stains on utensils.,142.62,Hard,Morning,Kitchen,Occasionally,Chennai,6.68
+My clothes feel stiff even after washing with detergent.,163.79,Hard,Morning,Kitchen,Occasionally,Chennai,6.73
+My clothes feel softer after washing.,7.22,Soft,Night,Laundry,Daily,Vellore,8.32
+Hair feels dry and rough after bathing.,147.33,Hard,Evening,Kitchen,Daily,Mumbai,7.9
+Washing machine filters clog frequently.,290.48,Very Hard,Afternoon,Bath,Daily,Vellore,7.86
+"The soap doesn’t lather much, but it’s manageable.",74.39,Moderate,Evening,Bath,Occasionally,Mumbai,7.05
+Washing machine filters clog frequently.,246.13,Very Hard,Afternoon,Bath,Occasionally,Vellore,6.52
+Soap just refuses to lather at all these days.,274.76,Very Hard,Night,Kitchen,Daily,Bengaluru,7.05
+Washing machine filters clog frequently.,188.39,Very Hard,Evening,Bath,Weekly,Chennai,7.45
+My clothes feel softer after washing.,4.18,Soft,Night,General use,Daily,Mumbai,8.28
+The geyser is scaling up quickly again.,169.4,Hard,Morning,General use,Daily,Bengaluru,6.53
+Soap just refuses to lather at all these days.,292.84,Very Hard,Morning,Kitchen,Daily,Chennai,8.34
+Soap just refuses to lather at all these days.,232.41,Very Hard,Afternoon,General use,Daily,Mumbai,7.43
+The water leaves white stains on utensils.,168.45,Hard,Morning,Bath,Occasionally,Mumbai,6.72
+Hair feels dry and rough after bathing.,135.34,Hard,Evening,Laundry,Daily,Mumbai,8.02
+There’s a strong salty taste in the water.,223.94,Very Hard,Night,General use,Daily,Chennai,8.17
+My clothes feel stiff even after washing with detergent.,153.03,Hard,Evening,General use,Weekly,Chennai,6.61
+The water leaves white stains on utensils.,134.69,Hard,Afternoon,General use,Daily,Chennai,8.37
+Washing machine filters clog frequently.,227.64,Very Hard,Morning,Kitchen,Daily,Bengaluru,8.3
+Soap lathers easily these days.,6.29,Soft,Night,General use,Occasionally,Chennai,6.64
+My clothes feel softer after washing.,54.57,Soft,Morning,Kitchen,Weekly,Bengaluru,6.95
+Washing machine filters clog frequently.,204.21,Very Hard,Morning,Bath,Daily,Chennai,8.05
+Slight scaling seen on my kettle after a few uses.,61.61,Moderate,Evening,Kitchen,Weekly,Vellore,7.22
+Soap lathers easily these days.,25.3,Soft,Morning,Laundry,Weekly,Mumbai,6.54
+The water feels quite smooth when I wash my hands.,47.79,Soft,Morning,Kitchen,Weekly,Bengaluru,6.98
+Soap just refuses to lather at all these days.,211.3,Very Hard,Night,Kitchen,Occasionally,Bengaluru,7.92
+Heavy scaling on taps and fixtures.,217.02,Very Hard,Evening,Laundry,Weekly,Vellore,7.4
+My clothes feel softer after washing.,45.66,Soft,Morning,Laundry,Weekly,Vellore,7.96
+There’s a strong salty taste in the water.,235.31,Very Hard,Afternoon,General use,Daily,Bengaluru,6.55
+Hair feels dry and rough after bathing.,147.82,Hard,Night,Kitchen,Occasionally,Chennai,6.82
+The water leaves white stains on utensils.,142.31,Hard,Morning,Laundry,Occasionally,Mumbai,8.44
+The geyser is scaling up quickly again.,134.17,Hard,Evening,Kitchen,Occasionally,Bengaluru,7.66
+Soap lathers easily these days.,44.07,Soft,Morning,Kitchen,Occasionally,Mumbai,7.65
+Water feels a bit harsh on the skin sometimes.,110.77,Moderate,Evening,Kitchen,Occasionally,Bengaluru,8.04
+Water feels a bit harsh on the skin sometimes.,71.65,Moderate,Night,General use,Occasionally,Bengaluru,7.08
+My clothes feel stiff even after washing with detergent.,142.26,Hard,Afternoon,Bath,Weekly,Vellore,7.06
+My clothes feel stiff even after washing with detergent.,151.44,Hard,Afternoon,Laundry,Daily,Mumbai,7.79
+"The soap doesn’t lather much, but it’s manageable.",87.06,Moderate,Morning,Kitchen,Occasionally,Chennai,7.16
+Slight scaling seen on my kettle after a few uses.,96.45,Moderate,Evening,Bath,Occasionally,Mumbai,7.6
+The water feels quite smooth when I wash my hands.,52.98,Soft,Afternoon,Kitchen,Daily,Mumbai,6.93
+Heavy scaling on taps and fixtures.,286.97,Very Hard,Evening,General use,Occasionally,Bengaluru,7.01
+Soap lathers easily these days.,31.49,Soft,Night,Laundry,Weekly,Mumbai,8.05
+I notice mild deposits on my bathroom tiles.,119.27,Moderate,Evening,Laundry,Daily,Chennai,6.73
+My clothes feel softer after washing.,21.89,Soft,Night,General use,Weekly,Vellore,6.78
+Soap just refuses to lather at all these days.,278.11,Very Hard,Night,General use,Daily,Chennai,6.68
+Water feels a bit harsh on the skin sometimes.,84.54,Moderate,Morning,General use,Daily,Mumbai,6.87
+Slight scaling seen on my kettle after a few uses.,103.5,Moderate,Evening,General use,Daily,Mumbai,7.72
+Hair feels dry and rough after bathing.,151.38,Hard,Morning,Laundry,Weekly,Mumbai,7.59
+Heavy scaling on taps and fixtures.,229.35,Very Hard,Morning,Bath,Weekly,Chennai,7.65
+My clothes feel softer after washing.,30.21,Soft,Afternoon,General use,Occasionally,Chennai,7.86
+Heavy scaling on taps and fixtures.,224.53,Very Hard,Morning,Laundry,Weekly,Bengaluru,7.02
+I notice mild deposits on my bathroom tiles.,91.82,Moderate,Afternoon,Bath,Weekly,Vellore,8.34
+Slight scaling seen on my kettle after a few uses.,91.06,Moderate,Afternoon,Laundry,Weekly,Mumbai,7.82
+There’s a strong salty taste in the water.,239.07,Very Hard,Morning,Bath,Weekly,Vellore,7.93
+The water leaves white stains on utensils.,179.6,Hard,Evening,Bath,Weekly,Vellore,8.21
+Water feels a bit harsh on the skin sometimes.,92.88,Moderate,Afternoon,Kitchen,Occasionally,Bengaluru,7.05
+"The soap doesn’t lather much, but it’s manageable.",73.51,Moderate,Afternoon,General use,Daily,Mumbai,8.02
+Washing machine filters clog frequently.,263.2,Very Hard,Night,Kitchen,Occasionally,Bengaluru,6.88
+The water leaves white stains on utensils.,125.17,Hard,Night,Bath,Weekly,Bengaluru,6.87
+The water leaves white stains on utensils.,139.35,Hard,Morning,Laundry,Daily,Chennai,7.12
+Soap just refuses to lather at all these days.,293.49,Very Hard,Afternoon,General use,Daily,Mumbai,8.05
+Slight scaling seen on my kettle after a few uses.,118.78,Moderate,Morning,Kitchen,Weekly,Vellore,8.14
+The geyser is scaling up quickly again.,177.2,Hard,Afternoon,Laundry,Daily,Bengaluru,7.54
+Slight scaling seen on my kettle after a few uses.,96.98,Moderate,Night,Bath,Daily,Bengaluru,7.84
+Heavy scaling on taps and fixtures.,204.06,Very Hard,Morning,Bath,Daily,Bengaluru,7.86
+Washing machine filters clog frequently.,188.49,Very Hard,Afternoon,Laundry,Weekly,Vellore,7.81
+My clothes feel softer after washing.,56.19,Soft,Night,General use,Occasionally,Bengaluru,6.87
+My clothes feel softer after washing.,53.93,Soft,Morning,Bath,Occasionally,Vellore,8.32
+Heavy scaling on taps and fixtures.,210.5,Very Hard,Morning,Kitchen,Occasionally,Chennai,7.92
+Washing machine filters clog frequently.,218.86,Very Hard,Morning,Laundry,Occasionally,Chennai,8.0
+There’s a strong salty taste in the water.,227.12,Very Hard,Morning,Kitchen,Daily,Bengaluru,6.95
+The water leaves white stains on utensils.,141.4,Hard,Morning,General use,Daily,Vellore,8.44
+My clothes feel softer after washing.,10.65,Soft,Evening,Laundry,Occasionally,Vellore,8.45
+"The soap doesn’t lather much, but it’s manageable.",97.4,Moderate,Morning,Laundry,Weekly,Chennai,8.25
+Soap lathers easily these days.,9.02,Soft,Evening,Kitchen,Occasionally,Bengaluru,6.52
+There’s a strong salty taste in the water.,272.54,Very Hard,Morning,Bath,Weekly,Vellore,6.54
+Slight scaling seen on my kettle after a few uses.,86.2,Moderate,Evening,General use,Daily,Vellore,6.68
+Hair feels dry and rough after bathing.,140.35,Hard,Night,Kitchen,Weekly,Vellore,7.63
+My clothes feel softer after washing.,46.67,Soft,Night,General use,Occasionally,Vellore,8.17
+"The soap doesn’t lather much, but it’s manageable.",87.64,Moderate,Night,Bath,Weekly,Chennai,6.94
+The water leaves white stains on utensils.,128.08,Hard,Afternoon,Bath,Weekly,Vellore,8.29
+The water feels quite smooth when I wash my hands.,21.93,Soft,Night,Laundry,Daily,Vellore,6.81
+I notice mild deposits on my bathroom tiles.,118.56,Moderate,Night,Laundry,Occasionally,Bengaluru,7.15
+Hair feels dry and rough after bathing.,168.65,Hard,Night,General use,Daily,Chennai,6.86
+My clothes feel softer after washing.,29.27,Soft,Morning,General use,Weekly,Mumbai,6.96
+The water feels quite smooth when I wash my hands.,12.62,Soft,Morning,Bath,Daily,Bengaluru,7.24
+I notice mild deposits on my bathroom tiles.,70.92,Moderate,Evening,Kitchen,Weekly,Vellore,6.74
+The geyser is scaling up quickly again.,173.79,Hard,Night,Kitchen,Occasionally,Chennai,8.36
+Soap just refuses to lather at all these days.,258.83,Very Hard,Afternoon,Laundry,Weekly,Mumbai,8.17
+Soap just refuses to lather at all these days.,252.46,Very Hard,Morning,General use,Occasionally,Chennai,8.47
+Heavy scaling on taps and fixtures.,292.39,Very Hard,Afternoon,General use,Weekly,Bengaluru,6.59
+The water leaves white stains on utensils.,171.9,Hard,Evening,Bath,Occasionally,Mumbai,8.33
+Washing machine filters clog frequently.,211.39,Very Hard,Night,Kitchen,Occasionally,Chennai,6.8
+There’s a strong salty taste in the water.,201.25,Very Hard,Night,Kitchen,Daily,Vellore,8.37
+Heavy scaling on taps and fixtures.,294.89,Very Hard,Afternoon,Kitchen,Weekly,Mumbai,7.59
+The geyser is scaling up quickly again.,146.72,Hard,Night,Laundry,Occasionally,Chennai,7.19
+Slight scaling seen on my kettle after a few uses.,84.38,Moderate,Evening,Kitchen,Daily,Vellore,7.03
+"The soap doesn’t lather much, but it’s manageable.",119.57,Moderate,Night,Laundry,Daily,Vellore,8.07
+My clothes feel softer after washing.,42.6,Soft,Evening,Laundry,Weekly,Mumbai,6.56
+Hair feels dry and rough after bathing.,170.65,Hard,Morning,Laundry,Weekly,Mumbai,7.25
+Hair feels dry and rough after bathing.,139.44,Hard,Evening,Laundry,Occasionally,Chennai,8.3
+I notice mild deposits on my bathroom tiles.,109.89,Moderate,Morning,Bath,Weekly,Bengaluru,7.29
+"No scaling on taps recently, water seems clean.",31.21,Soft,Afternoon,General use,Weekly,Vellore,7.89
+"The soap doesn’t lather much, but it’s manageable.",74.88,Moderate,Afternoon,Bath,Daily,Bengaluru,7.13
+There’s a strong salty taste in the water.,270.41,Very Hard,Morning,Bath,Weekly,Bengaluru,7.11
+Slight scaling seen on my kettle after a few uses.,87.63,Moderate,Night,Kitchen,Weekly,Bengaluru,6.85
+The water feels quite smooth when I wash my hands.,25.37,Soft,Night,Laundry,Weekly,Vellore,8.44
+Washing machine filters clog frequently.,259.34,Very Hard,Evening,General use,Occasionally,Bengaluru,7.89
+Hair feels dry and rough after bathing.,129.15,Hard,Night,Laundry,Daily,Mumbai,7.82
+The water feels quite smooth when I wash my hands.,33.18,Soft,Evening,Kitchen,Weekly,Vellore,7.4
+Soap just refuses to lather at all these days.,184.02,Very Hard,Evening,Laundry,Daily,Vellore,8.22
+Washing machine filters clog frequently.,283.68,Very Hard,Morning,Laundry,Daily,Mumbai,6.63
+The geyser is scaling up quickly again.,150.73,Hard,Morning,General use,Daily,Chennai,7.01
+My clothes feel softer after washing.,31.02,Soft,Morning,General use,Daily,Mumbai,6.61
+The geyser is scaling up quickly again.,143.48,Hard,Evening,Bath,Daily,Bengaluru,7.12
+Washing machine filters clog frequently.,262.34,Very Hard,Evening,General use,Occasionally,Vellore,7.75
+"The soap doesn’t lather much, but it’s manageable.",63.99,Moderate,Night,Laundry,Occasionally,Chennai,7.58
+My clothes feel softer after washing.,41.5,Soft,Evening,Kitchen,Occasionally,Bengaluru,7.3
+Water feels a bit harsh on the skin sometimes.,63.65,Moderate,Morning,Bath,Daily,Mumbai,7.52
+Slight scaling seen on my kettle after a few uses.,106.03,Moderate,Evening,Laundry,Daily,Bengaluru,7.95
+The water leaves white stains on utensils.,159.91,Hard,Morning,Laundry,Daily,Bengaluru,6.72
+The water feels quite smooth when I wash my hands.,0.93,Soft,Night,Bath,Daily,Bengaluru,7.4
+Washing machine filters clog frequently.,241.03,Very Hard,Night,Laundry,Occasionally,Chennai,7.15
+My clothes feel stiff even after washing with detergent.,171.95,Hard,Night,Laundry,Daily,Chennai,7.62
+Slight scaling seen on my kettle after a few uses.,83.75,Moderate,Night,Laundry,Daily,Bengaluru,7.42
+Water feels a bit harsh on the skin sometimes.,69.94,Moderate,Morning,Bath,Weekly,Chennai,7.37
+Washing machine filters clog frequently.,276.24,Very Hard,Night,General use,Daily,Mumbai,8.29
+"The soap doesn’t lather much, but it’s manageable.",98.39,Moderate,Afternoon,General use,Weekly,Bengaluru,6.62
+My clothes feel stiff even after washing with detergent.,175.23,Hard,Night,Kitchen,Daily,Bengaluru,6.61
+Hair feels dry and rough after bathing.,161.8,Hard,Evening,General use,Occasionally,Vellore,6.95
+Soap lathers easily these days.,46.84,Soft,Evening,Laundry,Weekly,Chennai,6.86
+Slight scaling seen on my kettle after a few uses.,74.61,Moderate,Night,Laundry,Occasionally,Mumbai,6.66
+Heavy scaling on taps and fixtures.,234.73,Very Hard,Night,Laundry,Occasionally,Mumbai,7.48
+Heavy scaling on taps and fixtures.,244.26,Very Hard,Afternoon,General use,Daily,Vellore,8.49
+Soap just refuses to lather at all these days.,235.88,Very Hard,Evening,General use,Daily,Bengaluru,8.25
+Soap just refuses to lather at all these days.,240.57,Very Hard,Afternoon,Kitchen,Daily,Bengaluru,8.36
+Washing machine filters clog frequently.,184.59,Very Hard,Evening,General use,Weekly,Mumbai,7.67
+"No scaling on taps recently, water seems clean.",36.04,Soft,Evening,Kitchen,Weekly,Bengaluru,7.85
+Slight scaling seen on my kettle after a few uses.,74.86,Moderate,Evening,General use,Weekly,Bengaluru,7.54
+The geyser is scaling up quickly again.,162.0,Hard,Evening,Kitchen,Occasionally,Mumbai,8.09
+The water feels quite smooth when I wash my hands.,32.77,Soft,Evening,Kitchen,Weekly,Vellore,6.55
+The water feels quite smooth when I wash my hands.,29.09,Soft,Morning,General use,Daily,Mumbai,7.4
+My clothes feel softer after washing.,28.45,Soft,Night,Laundry,Weekly,Vellore,7.13
+Water feels a bit harsh on the skin sometimes.,75.96,Moderate,Evening,Kitchen,Occasionally,Bengaluru,6.69
+"No scaling on taps recently, water seems clean.",25.9,Soft,Afternoon,Laundry,Weekly,Vellore,7.21
+I notice mild deposits on my bathroom tiles.,75.08,Moderate,Morning,General use,Daily,Chennai,6.89
+Soap just refuses to lather at all these days.,240.43,Very Hard,Morning,Kitchen,Occasionally,Mumbai,7.88
+The water feels quite smooth when I wash my hands.,33.89,Soft,Afternoon,Bath,Daily,Chennai,8.48
+I notice mild deposits on my bathroom tiles.,115.8,Moderate,Afternoon,Laundry,Daily,Mumbai,8.28
+I notice mild deposits on my bathroom tiles.,89.91,Moderate,Evening,Kitchen,Occasionally,Bengaluru,6.82
+My clothes feel softer after washing.,2.88,Soft,Afternoon,General use,Weekly,Bengaluru,6.5
+Slight scaling seen on my kettle after a few uses.,106.03,Moderate,Evening,Kitchen,Daily,Vellore,6.54
+Water feels a bit harsh on the skin sometimes.,95.32,Moderate,Evening,General use,Occasionally,Mumbai,8.0
+The water leaves white stains on utensils.,152.63,Hard,Morning,General use,Weekly,Chennai,6.93
+Washing machine filters clog frequently.,246.6,Very Hard,Evening,General use,Weekly,Vellore,6.58
+Soap lathers easily these days.,48.74,Soft,Afternoon,Bath,Occasionally,Chennai,6.92
+Hair feels dry and rough after bathing.,164.14,Hard,Evening,Kitchen,Daily,Bengaluru,6.89
+There’s a strong salty taste in the water.,261.71,Very Hard,Afternoon,Laundry,Occasionally,Bengaluru,6.7
+Soap just refuses to lather at all these days.,290.38,Very Hard,Evening,General use,Occasionally,Bengaluru,8.13
+Soap just refuses to lather at all these days.,283.99,Very Hard,Evening,Laundry,Weekly,Mumbai,7.29
+Soap lathers easily these days.,57.66,Soft,Evening,General use,Daily,Vellore,8.05
+"No scaling on taps recently, water seems clean.",13.19,Soft,Evening,Laundry,Daily,Mumbai,7.21
+Water feels a bit harsh on the skin sometimes.,114.9,Moderate,Afternoon,Bath,Occasionally,Bengaluru,6.68
+Washing machine filters clog frequently.,283.09,Very Hard,Night,Laundry,Daily,Mumbai,6.89
+The water leaves white stains on utensils.,128.67,Hard,Morning,Kitchen,Daily,Mumbai,7.61
+Heavy scaling on taps and fixtures.,227.24,Very Hard,Afternoon,Laundry,Weekly,Chennai,7.6
+Washing machine filters clog frequently.,181.26,Very Hard,Evening,General use,Occasionally,Mumbai,7.99
+I notice mild deposits on my bathroom tiles.,113.81,Moderate,Morning,Bath,Weekly,Bengaluru,6.84
+"No scaling on taps recently, water seems clean.",20.23,Soft,Afternoon,Laundry,Daily,Vellore,6.53
+Heavy scaling on taps and fixtures.,241.53,Very Hard,Evening,Kitchen,Occasionally,Mumbai,8.34
+Water feels a bit harsh on the skin sometimes.,100.04,Moderate,Evening,Kitchen,Occasionally,Chennai,8.32
+"The soap doesn’t lather much, but it’s manageable.",110.25,Moderate,Evening,Bath,Weekly,Chennai,7.65
+Soap lathers easily these days.,2.61,Soft,Evening,Laundry,Weekly,Chennai,7.7
+There’s a strong salty taste in the water.,281.84,Very Hard,Morning,Bath,Weekly,Mumbai,6.58
+The water leaves white stains on utensils.,160.2,Hard,Morning,Bath,Daily,Bengaluru,7.07
+The water leaves white stains on utensils.,140.46,Hard,Afternoon,General use,Weekly,Chennai,7.1
+My clothes feel softer after washing.,4.82,Soft,Night,Kitchen,Occasionally,Mumbai,6.53
+I notice mild deposits on my bathroom tiles.,99.89,Moderate,Morning,Bath,Daily,Vellore,6.55
+My clothes feel softer after washing.,47.02,Soft,Night,Kitchen,Daily,Mumbai,7.89
+Soap just refuses to lather at all these days.,255.88,Very Hard,Night,Bath,Daily,Chennai,7.65
+Hair feels dry and rough after bathing.,176.23,Hard,Afternoon,Kitchen,Daily,Bengaluru,6.73
+"The soap doesn’t lather much, but it’s manageable.",78.96,Moderate,Afternoon,Bath,Occasionally,Vellore,8.36
+The water leaves white stains on utensils.,142.7,Hard,Night,Bath,Daily,Vellore,8.01
+I notice mild deposits on my bathroom tiles.,82.0,Moderate,Night,Kitchen,Occasionally,Mumbai,7.58
+Heavy scaling on taps and fixtures.,238.95,Very Hard,Evening,Bath,Occasionally,Vellore,6.57
+Soap just refuses to lather at all these days.,269.17,Very Hard,Night,Laundry,Occasionally,Chennai,7.69
+"No scaling on taps recently, water seems clean.",10.22,Soft,Night,General use,Daily,Vellore,7.43
+My clothes feel stiff even after washing with detergent.,147.92,Hard,Afternoon,General use,Weekly,Mumbai,8.45
+Heavy scaling on taps and fixtures.,243.33,Very Hard,Morning,General use,Occasionally,Vellore,7.89
+The water leaves white stains on utensils.,149.88,Hard,Morning,General use,Daily,Vellore,7.03
+There’s a strong salty taste in the water.,216.1,Very Hard,Night,Kitchen,Occasionally,Vellore,8.21
+"No scaling on taps recently, water seems clean.",49.77,Soft,Morning,Kitchen,Weekly,Vellore,7.23
+Water feels a bit harsh on the skin sometimes.,93.24,Moderate,Evening,Kitchen,Occasionally,Chennai,8.32
+Washing machine filters clog frequently.,243.3,Very Hard,Morning,Laundry,Occasionally,Mumbai,6.72
+Water feels a bit harsh on the skin sometimes.,69.32,Moderate,Afternoon,Kitchen,Daily,Mumbai,6.69
+The water leaves white stains on utensils.,171.83,Hard,Evening,Laundry,Weekly,Chennai,6.56
+Soap lathers easily these days.,41.12,Soft,Afternoon,Kitchen,Weekly,Chennai,7.48
+Washing machine filters clog frequently.,221.31,Very Hard,Evening,Laundry,Daily,Bengaluru,7.59
+I notice mild deposits on my bathroom tiles.,74.85,Moderate,Evening,Kitchen,Occasionally,Vellore,7.49
+There’s a strong salty taste in the water.,250.89,Very Hard,Night,Kitchen,Weekly,Chennai,7.34
+"The soap doesn’t lather much, but it’s manageable.",111.88,Moderate,Afternoon,Bath,Daily,Bengaluru,6.76
+Washing machine filters clog frequently.,204.8,Very Hard,Afternoon,Bath,Occasionally,Vellore,6.86
+"No scaling on taps recently, water seems clean.",20.62,Soft,Morning,Bath,Occasionally,Bengaluru,7.31
+My clothes feel stiff even after washing with detergent.,129.96,Hard,Night,Laundry,Daily,Chennai,6.91
+Heavy scaling on taps and fixtures.,236.49,Very Hard,Evening,Bath,Occasionally,Mumbai,6.58
+Soap just refuses to lather at all these days.,228.19,Very Hard,Evening,Bath,Daily,Vellore,8.27
+Slight scaling seen on my kettle after a few uses.,62.09,Moderate,Night,Bath,Weekly,Bengaluru,6.75
+Heavy scaling on taps and fixtures.,243.57,Very Hard,Night,Kitchen,Weekly,Mumbai,7.22
+Hair feels dry and rough after bathing.,121.51,Hard,Evening,Kitchen,Weekly,Chennai,7.1
+I notice mild deposits on my bathroom tiles.,110.26,Moderate,Night,Laundry,Daily,Vellore,6.53
+I notice mild deposits on my bathroom tiles.,110.97,Moderate,Afternoon,Bath,Weekly,Vellore,8.11
+The water feels quite smooth when I wash my hands.,15.39,Soft,Evening,General use,Daily,Bengaluru,8.04
+Water feels a bit harsh on the skin sometimes.,64.66,Moderate,Afternoon,General use,Weekly,Vellore,8.5
+The water feels quite smooth when I wash my hands.,22.56,Soft,Evening,Laundry,Daily,Mumbai,7.67
+Hair feels dry and rough after bathing.,158.68,Hard,Night,Laundry,Weekly,Bengaluru,7.89
+My clothes feel softer after washing.,38.1,Soft,Morning,General use,Occasionally,Bengaluru,7.49
+"No scaling on taps recently, water seems clean.",24.27,Soft,Evening,Bath,Daily,Chennai,7.72
+The water feels quite smooth when I wash my hands.,4.62,Soft,Morning,Kitchen,Weekly,Vellore,6.54
+Soap lathers easily these days.,33.72,Soft,Morning,Bath,Occasionally,Mumbai,7.48
+Water feels a bit harsh on the skin sometimes.,76.74,Moderate,Morning,General use,Daily,Chennai,7.59
+My clothes feel softer after washing.,56.71,Soft,Morning,General use,Weekly,Chennai,6.63
+Slight scaling seen on my kettle after a few uses.,114.49,Moderate,Evening,Bath,Weekly,Chennai,7.87
+The geyser is scaling up quickly again.,159.32,Hard,Evening,Laundry,Occasionally,Bengaluru,6.63
+Washing machine filters clog frequently.,250.24,Very Hard,Evening,Kitchen,Daily,Mumbai,6.88
+The water feels quite smooth when I wash my hands.,43.45,Soft,Morning,Bath,Weekly,Bengaluru,6.65
+Hair feels dry and rough after bathing.,142.27,Hard,Night,Laundry,Weekly,Vellore,8.11
+Washing machine filters clog frequently.,214.94,Very Hard,Evening,General use,Occasionally,Mumbai,7.68
+Soap just refuses to lather at all these days.,193.17,Very Hard,Morning,General use,Weekly,Bengaluru,7.69
+Soap lathers easily these days.,38.23,Soft,Evening,Kitchen,Occasionally,Mumbai,7.0
+My clothes feel stiff even after washing with detergent.,171.48,Hard,Morning,Laundry,Weekly,Vellore,7.75
+Washing machine filters clog frequently.,239.86,Very Hard,Night,Kitchen,Weekly,Vellore,6.8
+The water feels quite smooth when I wash my hands.,46.24,Soft,Night,Laundry,Weekly,Vellore,8.04
+There’s a strong salty taste in the water.,229.77,Very Hard,Evening,General use,Daily,Vellore,6.85
+Heavy scaling on taps and fixtures.,189.89,Very Hard,Evening,Laundry,Daily,Chennai,7.99
+Soap just refuses to lather at all these days.,230.1,Very Hard,Afternoon,Bath,Occasionally,Chennai,6.74
+There’s a strong salty taste in the water.,215.46,Very Hard,Afternoon,Laundry,Occasionally,Chennai,7.05
+Soap lathers easily these days.,31.22,Soft,Evening,Laundry,Daily,Vellore,8.28
+My clothes feel softer after washing.,22.38,Soft,Evening,General use,Weekly,Bengaluru,7.03
+The water feels quite smooth when I wash my hands.,42.6,Soft,Afternoon,General use,Weekly,Mumbai,8.23
+The water feels quite smooth when I wash my hands.,17.37,Soft,Morning,Bath,Daily,Bengaluru,6.97
+The water feels quite smooth when I wash my hands.,24.32,Soft,Night,General use,Occasionally,Bengaluru,7.25
+The water leaves white stains on utensils.,149.55,Hard,Evening,General use,Occasionally,Mumbai,6.68
+Washing machine filters clog frequently.,211.54,Very Hard,Evening,Laundry,Occasionally,Bengaluru,7.02
+Slight scaling seen on my kettle after a few uses.,87.34,Moderate,Afternoon,Laundry,Daily,Vellore,7.99
+Water feels a bit harsh on the skin sometimes.,68.09,Moderate,Morning,General use,Weekly,Chennai,7.91
+The geyser is scaling up quickly again.,157.86,Hard,Night,Laundry,Occasionally,Mumbai,8.07
+Washing machine filters clog frequently.,277.71,Very Hard,Night,Bath,Weekly,Mumbai,8.31
+Water feels a bit harsh on the skin sometimes.,72.95,Moderate,Morning,Kitchen,Daily,Vellore,7.04
+"No scaling on taps recently, water seems clean.",15.31,Soft,Night,General use,Occasionally,Vellore,6.81
+Washing machine filters clog frequently.,287.17,Very Hard,Morning,General use,Occasionally,Chennai,8.47
+The water leaves white stains on utensils.,179.83,Hard,Night,General use,Occasionally,Mumbai,8.05
+Soap lathers easily these days.,6.74,Soft,Evening,Laundry,Weekly,Mumbai,7.38
+Soap just refuses to lather at all these days.,294.46,Very Hard,Afternoon,General use,Daily,Mumbai,7.8
+There’s a strong salty taste in the water.,292.61,Very Hard,Morning,Laundry,Daily,Chennai,6.59
+Soap just refuses to lather at all these days.,297.96,Very Hard,Night,Kitchen,Occasionally,Vellore,7.02
+"The soap doesn’t lather much, but it’s manageable.",115.9,Moderate,Morning,Kitchen,Weekly,Vellore,7.76
+Heavy scaling on taps and fixtures.,260.3,Very Hard,Afternoon,General use,Weekly,Chennai,7.28
+"No scaling on taps recently, water seems clean.",54.35,Soft,Morning,Kitchen,Occasionally,Bengaluru,7.02
+My clothes feel softer after washing.,58.58,Soft,Evening,Laundry,Daily,Vellore,6.64
+Soap just refuses to lather at all these days.,183.7,Very Hard,Night,Bath,Occasionally,Bengaluru,6.59
+Hair feels dry and rough after bathing.,139.31,Hard,Afternoon,General use,Daily,Bengaluru,6.5
+"No scaling on taps recently, water seems clean.",25.47,Soft,Afternoon,General use,Occasionally,Vellore,7.6
+My clothes feel stiff even after washing with detergent.,176.28,Hard,Night,Laundry,Daily,Chennai,6.62
+"The soap doesn’t lather much, but it’s manageable.",79.7,Moderate,Night,Bath,Weekly,Mumbai,6.61
+Heavy scaling on taps and fixtures.,235.33,Very Hard,Morning,Laundry,Occasionally,Bengaluru,7.2
+Soap lathers easily these days.,31.01,Soft,Evening,Bath,Weekly,Mumbai,7.91
+I notice mild deposits on my bathroom tiles.,69.1,Moderate,Afternoon,Laundry,Daily,Mumbai,6.63
+There’s a strong salty taste in the water.,283.03,Very Hard,Morning,Laundry,Daily,Mumbai,7.73
+Heavy scaling on taps and fixtures.,257.4,Very Hard,Evening,Kitchen,Weekly,Mumbai,6.76
+Soap lathers easily these days.,36.46,Soft,Night,Laundry,Occasionally,Bengaluru,7.3
+Slight scaling seen on my kettle after a few uses.,116.5,Moderate,Night,Laundry,Occasionally,Bengaluru,8.08
+I notice mild deposits on my bathroom tiles.,86.47,Moderate,Night,Laundry,Weekly,Bengaluru,8.33
+Water feels a bit harsh on the skin sometimes.,106.71,Moderate,Morning,Laundry,Daily,Mumbai,6.83
+Slight scaling seen on my kettle after a few uses.,66.32,Moderate,Morning,Kitchen,Weekly,Mumbai,7.46
+Washing machine filters clog frequently.,181.4,Very Hard,Evening,Bath,Daily,Chennai,7.95
+My clothes feel softer after washing.,54.26,Soft,Morning,Bath,Daily,Mumbai,6.79
+Slight scaling seen on my kettle after a few uses.,68.0,Moderate,Night,Laundry,Daily,Chennai,6.92
+Hair feels dry and rough after bathing.,163.87,Hard,Afternoon,Bath,Occasionally,Mumbai,8.14
+Heavy scaling on taps and fixtures.,243.91,Very Hard,Night,Bath,Daily,Mumbai,8.04
+The water feels quite smooth when I wash my hands.,34.55,Soft,Afternoon,Laundry,Occasionally,Bengaluru,8.36
+Soap lathers easily these days.,25.18,Soft,Night,Kitchen,Daily,Mumbai,8.0
+Water feels a bit harsh on the skin sometimes.,117.31,Moderate,Morning,General use,Weekly,Mumbai,6.99
+"The soap doesn’t lather much, but it’s manageable.",91.67,Moderate,Night,Kitchen,Daily,Chennai,7.5
+Soap just refuses to lather at all these days.,203.87,Very Hard,Morning,Laundry,Occasionally,Mumbai,7.92
+Soap lathers easily these days.,58.16,Soft,Morning,Laundry,Weekly,Bengaluru,6.78
+Soap lathers easily these days.,52.87,Soft,Night,Bath,Weekly,Bengaluru,7.02
+My clothes feel softer after washing.,13.71,Soft,Morning,Bath,Occasionally,Bengaluru,7.96
+Washing machine filters clog frequently.,292.27,Very Hard,Night,General use,Weekly,Mumbai,8.22
+My clothes feel softer after washing.,51.91,Soft,Evening,Kitchen,Daily,Bengaluru,8.08
+Washing machine filters clog frequently.,213.91,Very Hard,Night,General use,Weekly,Vellore,6.83
+The water leaves white stains on utensils.,141.94,Hard,Morning,Laundry,Daily,Bengaluru,7.66
+There’s a strong salty taste in the water.,268.32,Very Hard,Morning,Kitchen,Daily,Chennai,7.2
+Water feels a bit harsh on the skin sometimes.,104.04,Moderate,Night,General use,Weekly,Vellore,7.42
+The geyser is scaling up quickly again.,155.24,Hard,Afternoon,Kitchen,Occasionally,Vellore,8.38
+"The soap doesn’t lather much, but it’s manageable.",90.91,Moderate,Morning,General use,Occasionally,Chennai,8.28
+Heavy scaling on taps and fixtures.,277.09,Very Hard,Night,Bath,Weekly,Mumbai,8.18
+Water feels a bit harsh on the skin sometimes.,68.01,Moderate,Afternoon,Bath,Weekly,Vellore,8.39
+I notice mild deposits on my bathroom tiles.,80.26,Moderate,Night,Laundry,Occasionally,Mumbai,7.27
+"The soap doesn’t lather much, but it’s manageable.",72.07,Moderate,Night,General use,Occasionally,Vellore,6.7
+I notice mild deposits on my bathroom tiles.,89.31,Moderate,Morning,Bath,Daily,Mumbai,8.05
+Water feels a bit harsh on the skin sometimes.,113.55,Moderate,Evening,General use,Weekly,Chennai,7.34
+My clothes feel softer after washing.,9.83,Soft,Morning,General use,Daily,Bengaluru,8.3
+The water feels quite smooth when I wash my hands.,39.95,Soft,Afternoon,Bath,Daily,Bengaluru,8.37
+"No scaling on taps recently, water seems clean.",42.26,Soft,Afternoon,Kitchen,Daily,Vellore,8.49
+Heavy scaling on taps and fixtures.,248.35,Very Hard,Night,Kitchen,Occasionally,Bengaluru,7.55
+There’s a strong salty taste in the water.,263.72,Very Hard,Afternoon,Bath,Weekly,Chennai,6.81
+"No scaling on taps recently, water seems clean.",22.0,Soft,Evening,Kitchen,Daily,Chennai,7.39
+The geyser is scaling up quickly again.,168.86,Hard,Afternoon,General use,Weekly,Mumbai,7.96
+Soap just refuses to lather at all these days.,212.83,Very Hard,Afternoon,Laundry,Weekly,Chennai,8.41
+Hair feels dry and rough after bathing.,146.57,Hard,Night,Kitchen,Occasionally,Bengaluru,6.96
+The water feels quite smooth when I wash my hands.,19.0,Soft,Evening,General use,Daily,Mumbai,7.46
+Slight scaling seen on my kettle after a few uses.,92.33,Moderate,Night,Laundry,Daily,Mumbai,7.97
+Hair feels dry and rough after bathing.,132.11,Hard,Afternoon,Kitchen,Weekly,Vellore,8.32
+The water feels quite smooth when I wash my hands.,5.45,Soft,Morning,Kitchen,Weekly,Mumbai,7.41
+My clothes feel softer after washing.,51.66,Soft,Night,Laundry,Weekly,Bengaluru,8.04
+There’s a strong salty taste in the water.,252.86,Very Hard,Night,Kitchen,Weekly,Chennai,7.8
+"No scaling on taps recently, water seems clean.",4.0,Soft,Evening,Kitchen,Occasionally,Mumbai,6.57
+The geyser is scaling up quickly again.,160.52,Hard,Morning,General use,Occasionally,Vellore,7.85
+Slight scaling seen on my kettle after a few uses.,91.46,Moderate,Evening,Bath,Occasionally,Vellore,7.89
+Soap just refuses to lather at all these days.,267.02,Very Hard,Evening,Laundry,Weekly,Bengaluru,7.8
+Water feels a bit harsh on the skin sometimes.,111.33,Moderate,Evening,General use,Occasionally,Vellore,8.2
+My clothes feel stiff even after washing with detergent.,160.26,Hard,Night,Laundry,Daily,Vellore,7.03
+Soap just refuses to lather at all these days.,191.08,Very Hard,Afternoon,Kitchen,Occasionally,Chennai,7.52
+I notice mild deposits on my bathroom tiles.,86.56,Moderate,Evening,Bath,Weekly,Mumbai,8.28
+Slight scaling seen on my kettle after a few uses.,81.07,Moderate,Evening,General use,Occasionally,Mumbai,6.78
+Water feels a bit harsh on the skin sometimes.,119.4,Moderate,Night,General use,Daily,Vellore,7.24
+I notice mild deposits on my bathroom tiles.,115.44,Moderate,Evening,General use,Occasionally,Vellore,7.29

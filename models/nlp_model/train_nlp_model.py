@@ -6,7 +6,21 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score
 
-df = pd.read_csv("data/synthetic_complaints_dataset.csv")
+df = pd.read_csv("data\synthetic_complaints_dataset_v2.csv")
+
+def combine_params(row):
+    text_parts = [
+        str(row["complaint_text"]),
+        str(row.get("time_of_day", "")),
+        str(row.get("usage_context", "")),
+        str(row.get("frequency", "")),
+        str(row.get("region", "")),
+        f"pH {row.get('reported_ph', '')}"
+]
+
+    return " ".join(text_parts)
+
+df["combined_text"] = df.apply(combine_params, axis=1)
 
 #text preprocessing
 def clean_text(text):
@@ -14,7 +28,7 @@ def clean_text(text):
     text = text.translate(str.maketrans("", "", string.punctuation))
     return text
 
-df["clean_text"] = df["complaint_text"].apply(clean_text)
+df["clean_text"] = df["combined_text"].apply(clean_text)
 
 #convert text to a matrix of numbers based on importance of each model
 vectorizer = TfidfVectorizer(stop_words="english")
