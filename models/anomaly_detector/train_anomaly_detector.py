@@ -17,9 +17,6 @@ print("ENHANCED LSTM AUTOENCODER ANOMALY DETECTION SYSTEM")
 print("Intelligent Hard Water Management System v2.0")
 print("=" * 80)
 
-# ============================================================================
-# CONFIGURATION
-# ============================================================================
 CONFIG = {
     'seq_length': 30,
     'latent_dim': 8,
@@ -30,9 +27,6 @@ CONFIG = {
     'min_anomaly_score': 1.0,
 }
 
-# ============================================================================
-# STEP 1: LOAD DATA
-# ============================================================================
 print("\n[STEP 1] Loading datasets from Excel file...")
 
 try:
@@ -516,7 +510,7 @@ for severity in ['Low', 'Medium', 'High', 'Critical']:
 
 # Show top 5 critical anomalies
 if n_anomalies > 0:
-    print(f"\n🚨 TOP 5 MOST CRITICAL ANOMALIES:")
+    print(f"\nTOP 5 MOST CRITICAL ANOMALIES:")
     print("=" * 80)
     top_alerts = results[results['Is_Anomaly']].nlargest(5, 'Anomaly_Score')
     
@@ -537,7 +531,7 @@ if n_anomalies > 0:
                 print(f"        • {action}")
 
 print("\n" + "=" * 80)
-print("📁 OUTPUT FILES GENERATED:")
+print("OUTPUT FILES GENERATED:")
 print("=" * 80)
 print("  1. lstm_enhanced_final.keras - Trained model")
 print("  2. lstm_enhanced_best.h5 - Best checkpoint model")
@@ -546,5 +540,6 @@ print("  4. contextual_alerts.csv - Actionable alerts with recommendations")
 print("  5. feature_anomaly_contribution.csv - Feature-level analysis")
 print("  6. enhanced_anomaly_detection.png - Comprehensive visualizations")
 
-print("\n✅ Enhanced Anomaly Detection System Complete!")
+print("\n Enhanced Anomaly Detection System Complete!")
 print("=" * 80)
+

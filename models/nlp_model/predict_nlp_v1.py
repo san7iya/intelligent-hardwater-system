@@ -3,10 +3,9 @@ from models.nlp_model.utils import get_closest_match
 from models.rule_based.contextual_rec import contextual_rec
 import joblib
 
-def predict_nlp_v2(complaint_text=None, time_of_day=None, usage_context=None, frequency=None, region=None, reported_ph=None):
-    """Predict water hardness category and provide recommendations based on complaint description and context."""
-    
-    # Load the trained model and vectorizer
+def predict_nlp_v2(complaint_text=None, time_of_day=None, usage_context=None,
+                   frequency=None, region=None, reported_ph=None):
+
     model = joblib.load("models/nlp_model/nlp_model.pkl")
     vectorizer = joblib.load("models/nlp_model/vectorizer.pkl")
 
@@ -17,59 +16,47 @@ def predict_nlp_v2(complaint_text=None, time_of_day=None, usage_context=None, fr
         "Very Hard": 300
     }
 
-    # Interactive input if not provided
     if complaint_text is None:
         complaint_text = input("Enter water complaint description: ").strip()
     if not complaint_text:
-        print("Invalid input. Please enter a valid description.")
-        return None, None, None
+        print("Invalid input.")
+        return None
 
-    # Combine all features the same way as during training
-    text_parts = [
-        complaint_text,
+    # Combine contextual info (same as training)
+    combined = " ".join([
+        str(complaint_text),
         str(time_of_day or ""),
         str(usage_context or ""),
         str(frequency or ""),
         str(region or ""),
         f"pH {reported_ph or ''}"
-    ]
-    combined_text = " ".join(text_parts).strip()
+    ])
 
-    # Transform and predict
-    X_input = vectorizer.transform([combined_text])
+    X_input = vectorizer.transform([combined])
     prediction = model.predict(X_input)[0]
     estimated_value = category_to_value.get(prediction, None)
+
+    # Optional override rules
+    force_soft_keywords = ["salty", "bitter", "smell"]
+    force_soft_flag = any(word in complaint_text.lower() for word in force_soft_keywords)
+
+    if force_soft_flag and prediction in ["Hard", "Very Hard"]:
+        prediction = "Moderately Hard"
+        estimated_value = category_to_value[prediction]
 
     print(f"\nPredicted Hardness Category: {prediction}")
     print(f"Estimated Hardness Value: {estimated_value} mg/L (approx)")
 
-    # Fetch similar record + recommendation
+    # Scientific Recommendation
     row = get_closest_match(prediction)
-    numerical_rec = recommend(row)
+    scientific_rec = recommend(row)
 
     print("\nScientific Recommendation:")
-    print(numerical_rec)
+    print(scientific_rec)
 
-    context_rec = contextual_rec(complaint_text, prediction)
+    # Context-Aware Recommendation
+    context_rec_msg = contextual_rec(complaint_text, prediction)
     print("\nContext-Aware Recommendation:")
-    print(context_rec)
+    print(context_rec_msg)
 
-    final_rec = (
-        f"Scientific Recommendation:\n{numerical_rec}\n\n"
-        f"Context-Aware Recommendation:\n{context_rec}"
-    )
-
-    print("\nCombined Final Recommendation:")
-    print(final_rec)
-
-    return estimated_value, prediction, final_rec
-
-if __name__ == "__main__":
-    predict_nlp_v2(
-        complaint_text="The water tastes bitter and leaves white spots on dishes.",
-        time_of_day="Morning",
-        usage_context="Kitchen",
-        frequency="Daily",
-        region="Delhi",
-        reported_ph=7.8
-    )
+    return estimated_value, prediction, scientific_rec, context_rec_msg

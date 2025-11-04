@@ -48,7 +48,7 @@ for col in refined.columns:
         break
 
 if refined_col is None:
-    print("❌ ERROR: Could not find a refined hardness column.")
+    print("ERROR: Could not find a refined hardness column.")
     sys.exit()
 
 data = pd.concat([
@@ -58,7 +58,7 @@ data = pd.concat([
 ], axis=1).dropna()
 
 if data.shape[0] < 5:
-    print("❌ ERROR: Not enough data. Need at least 5 rows.")
+    print("ERROR: Not enough data. Need at least 5 rows.")
     sys.exit()
 
 # -------------------------------
