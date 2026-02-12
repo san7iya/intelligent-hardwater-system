@@ -119,6 +119,7 @@ python main.py
 ```bash
 cd webapp
 streamlit run app.py
+```
 
 ### **6. Output Files**
 
