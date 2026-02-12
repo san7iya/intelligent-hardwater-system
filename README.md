@@ -120,7 +120,7 @@ python main.py
 cd webapp
 streamlit run app.py
 
-## **6. Output Files**
+### **6. Output Files**
 
 | File                             | Description                               |
 | -------------------------------- | ----------------------------------------- |
@@ -131,7 +131,7 @@ streamlit run app.py
 | hardness_recommendations_xai.csv | Explainable recommendation outputs        |
 | lstm_enhanced_final.keras        | Trained LSTM anomaly detection model      |
 
-## **7. Example NLP Interaction**
+### **7. Example NLP Interaction**
 
 **Input:**
 `"Water tastes salty in the morning and leaves white stains on dishes"`
@@ -143,14 +143,14 @@ streamlit run app.py
 * Scientific recommendation
 * Usage-context recommendation (time-based)
 
-## **8. Recommended Future Improvements**
+### **8. Recommended Future Improvements**
 
 * Deployment through REST API (FastAPI / Flask)
 * Live IoT sensor integration (ESP32 / LoRa)
 * Mobile application for alerts and real-time viewing
 * Automated chemical dosing feedback system
 
-## **9. License**
+### **9. License**
 
 MIT License — This project is available for academic and research use.
 
